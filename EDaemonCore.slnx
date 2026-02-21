@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EDaemonCore.Tests/EDaemonCore.Tests.csproj" />
+  <Project Path="EDaemonCore/EDaemonCore.csproj" />
+</Solution>
